@@ -11,3 +11,9 @@ if b == 1:
   print("b is 1")
 else:
   print("b is not 1")
+
+c = int(input())
+if c == -1:
+  print("c is -1")
+else:
+  print("c is not -1")
