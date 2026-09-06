@@ -6,3 +6,6 @@ def subtract(a, b):
 
 result2 = subtract(3, 2)
 print(result2)
+
+result3 = add(25, 66)
+print(result3)
