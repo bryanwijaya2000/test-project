@@ -10,3 +10,4 @@ def foo(a, b):
   return 1000
 
 print(foo(10, 9))
+print(foo(20, 100))
